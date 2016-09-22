@@ -162,7 +162,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	/* global google: true */
 	var GoogleMapsLoader = __webpack_require__(5);
 
-	GoogleMapsLoader.VERSION = '3.14';
+	GoogleMapsLoader.VERSION = '3.25';
 
 	var google = null;
 	L.Google = L.Class.extend({

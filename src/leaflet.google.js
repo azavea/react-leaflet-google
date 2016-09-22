@@ -5,7 +5,7 @@
 /* global google: true */
 var GoogleMapsLoader = require('google-maps');
 
-GoogleMapsLoader.VERSION = '3.14';
+GoogleMapsLoader.VERSION = '3.25';
 
 
 
