@@ -44,7 +44,6 @@ L.Google = L.Class.extend({
 		});
 		GoogleMapsLoader.load(function (_google) {
 			google = _google;
-			console.log('I just loaded google maps api'); 
 
 			self._initMapObject();
 			self._update();
